@@ -17,11 +17,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Self-taught Full Stack developer
+- You can find me editing videos or working out in gym in spare time
+- Currently Honing mt Full stack Web Development skills
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1wzT2WRzYW1C9K-kaNx7voIkmcfFflpms/view?usp=sharing)
 
 <br><br>
 
@@ -36,7 +35,6 @@
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     
@@ -45,6 +43,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Reactjs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FReact_%2528web_framework%2529&psig=AOvVaw355KYcjiH2J4DHSbVXjM1q&ust=1682721814255000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjEqLqRy_4CFQAAAAAdAAAAABAE)
 
 <br>
 
@@ -137,12 +136,6 @@
 <br>
 <br>
 <br>
-
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <br>
 <br>
 <br>
