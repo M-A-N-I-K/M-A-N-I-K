@@ -119,8 +119,9 @@
 
 <li>
 <a href="https://linkedin.com/in/manik-dingra" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:manik-dingra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  manik_dingra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
+</li>
 </li>
 
 <br>
