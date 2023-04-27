@@ -43,16 +43,24 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Reactjs](https://img.shields.io/badge/Reactjs%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
-   ![Expressjs](https://img.shields.io/badge/Expressjs%20-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white)
-   ![Nodejs](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white)
-   ![MongoDB](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)
+   ![Reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+   ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+   ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+   ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+	
+	
+	
 
 <br>
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
     
 <br>
 
@@ -111,7 +119,7 @@
 
 <li>
 <a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:(https://www.linkedin.com/in/manik-dingra)-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -119,7 +127,7 @@
 
 <li>
 <a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/twitter: manik_dingra-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -127,7 +135,7 @@
 
 <li>
 <a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail: manikdhingra0582@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -136,11 +144,6 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
