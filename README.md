@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Manik Dingra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Full-Stack+Web+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -19,7 +19,7 @@
 
 - A passionate Self-taught Full Stack developer
 - You can find me editing videos or working out in gym in spare time
-- Currently Honing mt Full stack Web Development skills
+- Currently Honing my Full stack Web Development skills
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1wzT2WRzYW1C9K-kaNx7voIkmcfFflpms/view?usp=sharing)
 
 <br><br>
@@ -38,12 +38,15 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Full-Stack Web Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Reactjs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.logo.wine%2Flogo%2FReact_%2528web_framework%2529&psig=AOvVaw355KYcjiH2J4DHSbVXjM1q&ust=1682721814255000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjEqLqRy_4CFQAAAAAdAAAAABAE)
+![Nodejs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANode.js_logo.svg&psig=AOvVaw1TgsnqFASldx4HKl-o66iV&ust=1682722085228000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJijpbOSy_4CFQAAAAAdAAAAABAE)
+![Expressjs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fexpressjs-tutorial%2F&psig=AOvVaw3fAnJo3wsuAX8Z9NjDd9EF&ust=1682722132505000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNinlM2Sy_4CFQAAAAAdAAAAABAE)
+	![MongoDB](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fmongodb-logo&psig=AOvVaw1svH6XFIPi8hSlQUHM5m0z&ust=1682722200652000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNi5tOqSy_4CFQAAAAAdAAAAABAJ)
 
 <br>
 
