@@ -45,8 +45,8 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Reactjs](https://img.shields.io/badge/Reactjs%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
    ![Expressjs](https://img.shields.io/badge/Expressjs%20-%231572B6.svg?style=for-the-badge&logo=javascript&logoColor=white)
-   ![Expressjs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edureka.co%2Fblog%2Fexpressjs-tutorial%2F&psig=AOvVaw3fAnJo3wsuAX8Z9NjDd9EF&ust=1682722132505000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNinlM2Sy_4CFQAAAAAdAAAAABAE)
-   ![MongoDB](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fmongodb-logo&psig=AOvVaw1svH6XFIPi8hSlQUHM5m0z&ust=1682722200652000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNi5tOqSy_4CFQAAAAAdAAAAABAJ)
+   ![Nodejs](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white)
+   ![MongoDB](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=&logoColor=white)
 
 <br>
 
