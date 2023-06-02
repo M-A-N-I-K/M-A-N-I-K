@@ -18,9 +18,10 @@
 <br>
 
 - A passionate Self-taught Full Stack developer
-- You can find me editing videos or working out in gym in spare time
+- Open Source Contributor
 - Currently Honing my Full stack Web Development skills
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1wzT2WRzYW1C9K-kaNx7voIkmcfFflpms/view?usp=sharing)
+- You can find me editing videos or working out in gym in spare time
+- I’m currently open for an Intern or Open Source Contributions, this is [my resume](https://drive.google.com/file/d/1wzT2WRzYW1C9K-kaNx7voIkmcfFflpms/view?usp=sharing)
 
 <br><br>
 
