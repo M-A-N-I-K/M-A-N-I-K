@@ -86,9 +86,36 @@
 -----
 
 <br>
+## 💫 Github Stats
+
+<table>    
+<tr>
+  <td align="center">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=khushbumaheshwarii&theme=synthwave" />
+  </td>
+  <td align="center">
+    <img height="190" width="400" src="https://github-profile-trophy.vercel.app/?username=khushbumaheshwarii&theme=dracula&column=5" /> 
+  </td>
+</tr>
+</table>
+
+<table>    
+<tr>
+  <td align="center">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=M-A-N-I-K&show_icons=true&locale=en&theme=synthwave" />
+  </td>
+  <td align="center">
+    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-N-I-K&layout=compact&theme=synthwave&langs_count=15" /> 
+  </td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=M-A-N-I-K&theme=synthwave-84&true&hide_border=true" />
+</div>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -101,7 +128,7 @@
 </div>
 
 <br>
-<br>
+<br> -->
 <br>
 
 -----
