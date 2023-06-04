@@ -86,7 +86,7 @@
 -----
 
 <br>
-## Github Stats 💫 
+## <p>Github Stats 💫 </p>
 
 <table>    
 <tr>
