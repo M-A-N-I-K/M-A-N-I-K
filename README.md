@@ -110,10 +110,6 @@
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=M-A-N-I-K&theme=synthwave-84&true&hide_border=true" />
-</div>
-
 <br>
 
 -----
