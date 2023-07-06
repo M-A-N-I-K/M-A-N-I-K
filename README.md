@@ -108,8 +108,15 @@
     <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-N-I-K&layout=compact&theme=synthwave&langs_count=15" /> 
   </td>
 </tr>
+<tr>
+  <td align="center">
+    <img width="400" src="https://stats.quine.sh/M-A-N-I-K/topics-over-time?theme=dark" />
+  </td>
+  <td align="center">
+    <img height="170" width="400" src="https://quine.sh?utm_source=widgets&utm_campaign=M-A-N-I-K" /> 
+  </td>
+</tr>
 </table>
-[![M-A-N-I-K's GitHub | Topics](https://stats.quine.sh/M-A-N-I-K/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=M-A-N-I-K)
 
 <br>
 
