@@ -109,6 +109,7 @@
   </td>
 </tr>
 </table>
+[![M-A-N-I-K's GitHub | Topics](https://stats.quine.sh/M-A-N-I-K/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=M-A-N-I-K)
 
 <br>
 
