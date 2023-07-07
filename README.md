@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Full Stack developer
+- A passionate Self-taught Full Stack Web developer
 - Open Source Contributor
 - Currently Honing my Full stack Web Development skills
 - You can find me editing videos or working out in gym in spare time
