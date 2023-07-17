@@ -21,7 +21,7 @@
 - A fervent advocate of the Open Source community, actively contributing to enrich the digital landscape with innovative solutions.
 - Currently immersed in refining and honing my already adept Full Stack Web Development skills, constantly pushing the boundaries of what's possible.
 - During moments of respite, you'll find me gracefully immersed in the art of video editing or pursuing physical excellence at the gym, embodying the perfect blend of creativity and discipline.
-- Eagerly seeking opportunities to further my expertise through an Internship or Open Source Contributions, as showcased in detail within my resume(https://drive.google.com/file/d/1LyS4KvtAL2WDGH3rtlab1cPAAkEGrtyc/view?usp=sharing). Let's collaborate and make a meaningful impact together!
+- Eagerly seeking opportunities to further my expertise through an Internship or Open Source Contributions, as showcased in detail within ![my resume](https://drive.google.com/file/d/1LyS4KvtAL2WDGH3rtlab1cPAAkEGrtyc/view?usp=sharing). Let's collaborate and make a meaningful impact together!
 
 <br><br>
 
