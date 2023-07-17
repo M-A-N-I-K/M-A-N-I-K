@@ -17,11 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Full Stack Web developer
-- Open Source Contributor
-- Currently Honing my Full stack Web Development skills
-- You can find me editing videos or working out in gym in spare time
-- I’m currently open for an Intern or Open Source Contributions, this is [my resume](https://drive.google.com/file/d/1wzT2WRzYW1C9K-kaNx7voIkmcfFflpms/view?usp=sharing)
+- An ardent and self-motivated Full Stack Web developer, relentlessly driven by a boundless passion for continuous learning and growth.
+- A fervent advocate of the Open Source community, actively contributing to enrich the digital landscape with innovative solutions.
+- Currently immersed in refining and honing my already adept Full Stack Web Development skills, constantly pushing the boundaries of what's possible.
+- During moments of respite, you'll find me gracefully immersed in the art of video editing or pursuing physical excellence at the gym, embodying the perfect blend of creativity and discipline.
+- Eagerly seeking opportunities to further my expertise through an Internship or Open Source Contributions, as showcased in detail within my resume(https://drive.google.com/file/d/1LyS4KvtAL2WDGH3rtlab1cPAAkEGrtyc/view?usp=sharing). Let's collaborate and make a meaningful impact together!
 
 <br><br>
 
