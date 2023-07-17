@@ -87,7 +87,6 @@
 
 <br>
 <h2>Github Stats 💫 </h2>
-[![Manik's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-A-N-I-K)](https://github.com/M-A-N-I-K/github-readme-stats)
 
 <table>    
 <tr>
