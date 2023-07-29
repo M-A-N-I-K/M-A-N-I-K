@@ -17,11 +17,12 @@
 
 <br>
 
-- An ardent and self-motivated Full Stack Web developer, relentlessly driven by a boundless passion for continuous learning and growth.
-- A fervent advocate of the Open Source community, actively contributing to enrich the digital landscape with innovative solutions.
-- Currently immersed in refining and honing my already adept Full Stack Web Development skills, constantly pushing the boundaries of what's possible.
-- During moments of respite, you'll find me gracefully immersed in the art of video editing or pursuing physical excellence at the gym, embodying the perfect blend of creativity and discipline.
-- Eagerly seeking opportunities to further my expertise through an Internship or Open Source Contributions, as showcased in detail within ![my resume](https://drive.google.com/file/d/1LyS4KvtAL2WDGH3rtlab1cPAAkEGrtyc/view?usp=sharing). Let's collaborate and make a meaningful impact together!
+* I am a passionate and self-motivated full stack web developer who is always learning and growing.
+* I am an active contributor to the open source community and I am always looking for new ways to innovate.
+* I am constantly pushing the boundaries of what is possible in web development.
+* In my spare time, I enjoy video editing and physical fitness.
+* I am eager to further my expertise through an internship or open source contributions.
+* I am confident that I can make a meaningful impact in the world of web development. This is ![my resume](https://drive.google.com/file/d/1LyS4KvtAL2WDGH3rtlab1cPAAkEGrtyc/view?usp=sharing). Let's collaborate and make a meaningful impact together!
 
 <br><br>
 
