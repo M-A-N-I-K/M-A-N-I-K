@@ -22,7 +22,7 @@
 * I am constantly pushing the boundaries of what is possible in web development.
 * In my spare time, I enjoy video editing and physical fitness.
 * I am eager to further my expertise through an internship or open source contributions.
-* I am confident that I can make a meaningful impact in the world of web development. This is ![my resume](https://drive.google.com/file/d/1LyS4KvtAL2WDGH3rtlab1cPAAkEGrtyc/view?usp=sharing). Let's collaborate and make a meaningful impact together!
+* I am confident that I can make a meaningful impact in the world of web development. This is ![my resume](https://drive.google.com/file/d/1K9Ecl3vlY0_Cjj_eFReooOrMKTZWjKIr/view?usp=drive_link). Let's collaborate and make a meaningful impact together!
 
 <br><br>
 
