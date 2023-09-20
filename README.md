@@ -95,7 +95,7 @@
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?username=M-A-N-I-K&theme=synthwave" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/api?username=M-A-N-I-K&theme=synthwave" />
   </td>
   <td align="center">
     <img height="190" width="400" src="https://github-profile-trophy.vercel.app/?username=M-A-N-I-K&theme=dracula&column=5" /> 
