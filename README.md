@@ -95,17 +95,6 @@
 <table>    
 <tr>
   <td align="center">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/api?username=M-A-N-I-K&theme=synthwave" />
-  </td>
-  <td align="center">
-    <img height="190" width="400" src="https://github-profile-trophy.vercel.app/?username=M-A-N-I-K&theme=dracula&column=5" /> 
-  </td>
-</tr>
-</table>
-
-<table>    
-<tr>
-  <td align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=M-A-N-I-K&show_icons=true&locale=en&theme=synthwave" />
   </td>
   <td align="center">
