@@ -1,4 +1,4 @@
-<img align="center" style="width:100%;" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="center" style="width:100vw;" alt="" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
 
 # 💫 About Me:
 🔭 **I am a passionate and self-motivated full stack web developer who is always learning and growing.**
