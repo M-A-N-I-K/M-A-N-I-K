@@ -1,4 +1,4 @@
-<img align="center" style="width:100vw;" alt="" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" />
+<img align="center" style="width:100vw;" alt="" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" />
 
 # 💫 About Me:
 🔭 **I am a passionate and self-motivated full stack web developer who is always learning and growing.**
@@ -47,8 +47,7 @@
 <br>
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=M-A-N-I-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=M-A-N-I-K&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=M-A-N-I-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &emsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=M-A-N-I-K&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-N-I-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ### 🔝 Top Contributed Repo
