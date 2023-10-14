@@ -56,7 +56,7 @@
    ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
    ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-	
+   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
 
@@ -90,18 +90,16 @@
 -----
 
 <br>
-<h2>Github Stats 💫 </h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=M-A-N-I-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=M-A-N-I-K&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-N-I-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<table>    
-<tr>
-  <td align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=M-A-N-I-K&show_icons=true&locale=en&theme=synthwave" />
-  </td>
-  <td align="center">
-    <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-N-I-K&layout=compact&theme=synthwave&langs_count=15" /> 
-  </td>
-</tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=M-A-N-I-K&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=M-A-N-I-K&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br>
 
