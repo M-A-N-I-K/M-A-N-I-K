@@ -8,23 +8,18 @@
 
 <br>
 
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
 <img align="right" height="300" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-<br>
+# 💫 About Me:
+🔭 **I am a passionate and self-motivated full stack web developer who is always learning and growing.**
 
-* I am a passionate and self-motivated full stack web developer who is always learning and growing.
-* I am an active contributor to the open source community and I am always looking for new ways to innovate.
-* I am constantly pushing the boundaries of what is possible in web development.
-* In my spare time, I enjoy video editing and physical fitness.
-* I am eager to further my expertise through an internship or open source contributions.
-* I am confident that I can make a meaningful impact in the world of web development. This is [my resume](https://drive.google.com/file/d/1K9Ecl3vlY0_Cjj_eFReooOrMKTZWjKIr/view?usp=drive_link). Let's collaborate and make a meaningful impact together!
+👯 **I am an active contributor to the open source community and I am always looking for new ways to innovate.**
 
-<br><br>
+🌱 **I am constantly pushing the boundaries of what is possible in web development.**
+
+💬 **In my spare time, I enjoy video editing and physical fitness.**
+
+⚡ **I am eager to further my expertise through an internship or open source contributions.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
