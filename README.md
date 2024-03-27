@@ -79,24 +79,34 @@
 [![](https://visitcount.itsvg.in/api?id=M-A-N-I-K&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="display: flex; align-items: flex-start;">
+  <div>
+    <ul style="list-style-type: none; padding: 0; margin: 0;">
+      <li>
+        <a href="https://linkedin.com/in/manik-dingra">
+          <img src="https://img.shields.io/badge/linkedin:manik_dingra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/manik_dingra">
+          <img src="https://img.shields.io/badge/twitter:manik_dingra-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+        </a>
+      </li>
+      <li>
+        <a href="mailto:manikdhingra0582@gmail.com">
+          <img src="https://img.shields.io/badge/gmail:manikdhingra0582-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
+      </li>
+    </ul>
+  </div>
   
-<div style="flex: 1;">
-  
-[![Linkedin](https://img.shields.io/badge/linkedin:  manik_dingra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manik-dingra)
-
-[![Twitter](https://img.shields.io/badge/twitter: manik_dingra-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manik_dingra)
-
-[![Gmail](https://img.shields.io/badge/gmail: manikdhingra0582-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikdhingra0582@gmail.com)
-
-</div>
-
-<img width="150px" height="150px" src="https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966" alt="gojo"/>
-
+  <div>
+    <img width="150px" height="150px" src="https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966" alt="gojo" align="right"/>
+  </div>
 </div>
 
 <br>
@@ -110,5 +120,7 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
 
 
