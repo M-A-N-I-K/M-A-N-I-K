@@ -63,9 +63,9 @@
 
 <div style="width: 100% ; display flex; justify-content : center; align-items:center;">
  
- ![](https://github-readme-stats.vercel.app/api?username=M-A-N-I-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=M-A-N-I-K&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-N-I-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-A-N-I-K&theme=blue_green) 
+  &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=M-A-N-I-K&theme=blue_green&hide_border=false)<br/>
+<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-A-N-I-K&theme=blue_green) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-A-N-I-K&theme=blue_green) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-A-N-I-K&theme=blue_green) 
@@ -89,7 +89,7 @@
 
 <ul>
 
-<li>
+<li  class="list-style-type:none;">
 <a href="https://linkedin.com/in/manik-dingra" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  manik_dingra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
@@ -97,7 +97,7 @@
 
 <br>
 
-<li>
+<li class="list-style-type:none;">
 <a href="https://twitter.com/manik_dingra" target="_blank">
 <img src="https://img.shields.io/badge/twitter: manik_dingra-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
@@ -105,7 +105,7 @@
 
 <br>
 
-<li>
+<li class="list-style-type:none;">
 <a href="mailto:manikdhingra0582@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail: manikdhingra0582-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
@@ -113,7 +113,7 @@
 	
 </ul>
 </div>
-<img src="https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966" alt="gojo"/>
+<img width="150px" height="150px" src="https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966" alt="gojo"/>
 </div>
 
 <br>
