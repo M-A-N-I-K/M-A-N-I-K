@@ -82,6 +82,9 @@
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
+
+<div style="width: 100%;display:flex;justify-content:space-between;">
+	
 <div align='left'>
 
 <ul>
@@ -90,7 +93,6 @@
 <a href="https://linkedin.com/in/manik-dingra" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  manik_dingra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
 </li>
 
 <br>
@@ -110,6 +112,8 @@
 </li>
 	
 </ul>
+</div>
+<img src="https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966" alt="gojo"/>
 </div>
 
 <br>
