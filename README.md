@@ -9,17 +9,17 @@
 
    &nbsp;
     
-   &nbsp;&#10022; Just call me **Old Cat**
+   &nbsp;&#10022; 🔭 **I am a passionate and self-motivated full stack web developer who is always learning and growing.**
 
-   &nbsp;&#10022; Currently pursuing an applied bachelor's degree in **informatics engineering**
+   &nbsp;&#10022; 👯 **I am an active contributor to the open source community and I am always looking for new ways to innovate.**
 
-   &nbsp;&#10022; Have good understanding of Web Development
+   &nbsp;&#10022; **I am constantly pushing the boundaries of what is possible in web development.**
 
-   &nbsp;&#10022; Have understanding in Bahasa (native), English (fluent), 日本語 (a little bit)
+   &nbsp;&#10022; 💬 **In my spare time, I enjoy video editing and physical fitness.**
 
-   &nbsp;&#10022; My current goals is To become Fullstack Web Developer, and Get N5 日本語 certificate
+   &nbsp;&#10022; ⚡ **I am eager to further my expertise through an internship or open source contributions.**
    
-   &nbsp;&#10022; Let's talk about Web development, Security, And Anime stuff
+   &nbsp;&#10022; **Let's talk about Web development, Security, And Anime stuff**
    
   </p>
  </div>
@@ -44,25 +44,4 @@
 <h2></h2>
 <br><br><br><br><br>
 
-<div>
- <div>
-  <img src="./assets/images/mary.png" align="left">
-  <p align="right">
 
-   &nbsp;
-   
-   &nbsp;
-    
-   &nbsp;&#10022; Feel free to reach me at: &#10022;
-
-   &nbsp; 
-   <a href="https://discord.com/users/1122382759990657044" target="_blank"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-   <a href="https://www.instagram.com/oldcat.ash" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-
-   &nbsp;&#10022; I ussualy use Discord for chatting with friends.
-   
-   &nbsp;&#10022; I use Instagram for uploading my drawing content.
-   
-  </p>
- </div>
-</div>
