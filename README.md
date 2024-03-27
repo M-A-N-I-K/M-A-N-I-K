@@ -85,9 +85,9 @@
 
 <div style="width: 100%;display:flex;justify-content:space-between;">
 	
-<div align='left'>
+<div align='left' width="40%">
 
-<ul>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
 
 <li  class="list-style-type:none;">
 <a href="https://linkedin.com/in/manik-dingra" target="_blank">
