@@ -53,6 +53,10 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=M-A-N-I-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=M-A-N-I-K&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-N-I-K&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-A-N-I-K&theme=blue_green) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-A-N-I-K&theme=blue_green) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-A-N-I-K&theme=blue_green) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-A-N-I-K&theme=blue_green) 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=M-A-N-I-K&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
