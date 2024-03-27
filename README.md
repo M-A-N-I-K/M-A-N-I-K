@@ -83,37 +83,20 @@
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
-<div style="width: 100%;display:flex;justify-content:space-between;">
-	
-<div align='left' width="40%">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
+<div style="flex: 1;">
+  
+[![Linkedin](https://img.shields.io/badge/linkedin:  manik_dingra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manik-dingra)
 
-<ul style="list-style-type: none; padding: 0; margin: 0;">
+[![Twitter](https://img.shields.io/badge/twitter: manik_dingra-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manik_dingra)
 
-<li  class="list-style-type:none;">
-<a href="https://linkedin.com/in/manik-dingra" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  manik_dingra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
+[![Gmail](https://img.shields.io/badge/gmail: manikdhingra0582-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikdhingra0582@gmail.com)
 
-<br>
-
-<li class="list-style-type:none;">
-<a href="https://twitter.com/manik_dingra" target="_blank">
-<img src="https://img.shields.io/badge/twitter: manik_dingra-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li class="list-style-type:none;">
-<a href="mailto:manikdhingra0582@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail: manikdhingra0582-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
 </div>
-<img width="200px" height="200px" src="https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966" alt="gojo" align="right"/>
+
+<img width="150px" height="150px" src="https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966" alt="gojo"/>
+
 </div>
 
 <br>
