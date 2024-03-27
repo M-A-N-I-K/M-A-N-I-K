@@ -79,7 +79,8 @@
 [![](https://visitcount.itsvg.in/api?id=M-A-N-I-K&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <br>
-<b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 
 
@@ -101,12 +102,10 @@
           <img src="https://img.shields.io/badge/gmail:manikdhingra0582-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
         </a>
       </li>
+    <img width="150px" height="150px" src="https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966" alt="gojo" align="right"/>
     </ul>
   </div>
   
-  <div>
-    <img width="150px" height="150px" src="https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966" alt="gojo" align="right"/>
-  </div>
 </div>
 
 <br>
