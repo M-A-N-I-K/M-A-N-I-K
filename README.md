@@ -61,7 +61,7 @@
 <h2></h2>
 <br><br><br><br><br>
 
-<div style="width: 100% ; display flex; justify-content : center; align-items:center;">
+<div style="width: 100% ; display:flex; justify-content: center; align-items:center;"  markdown="1">
  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-A-N-I-K&theme=blue_green) 
   &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=M-A-N-I-K&theme=blue_green&hide_border=false)<br/>
