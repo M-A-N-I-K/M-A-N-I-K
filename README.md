@@ -24,8 +24,6 @@
    &nbsp;&#10022; 🌱 **I am constantly pushing the boundaries of what is possible in web development.**
 
    &nbsp;&#10022; 💬 **In my spare time, I enjoy video editing and physical fitness.**
-
-   &nbsp;&#10022; ⚡ **I am eager to further my expertise through an internship or open source contributions.**
    
    &nbsp;&#10022; 💻 **Let's talk about Web development, Security, And Anime stuff**
    
@@ -79,9 +77,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-A-N-I-K&theme=blue_green) 
 
 </div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=M-A-N-I-K&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=M-A-N-I-K&icon=0&color=0)](https://visitcount.itsvg.in)
