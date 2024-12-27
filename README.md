@@ -17,15 +17,15 @@
 
    &nbsp;
     
-   &nbsp;&#10022; 🔭 **I am a passionate and self-motivated full stack web developer who is always learning and growing.**
+    ✦ 🔭 I'm a full-stack web developer with 4+ years of experience building dynamic and user-friendly web applications.
 
-   &nbsp;&#10022; 👯 **I am an active contributor to the open source community and I am always looking for new ways to innovate.**
-
-   &nbsp;&#10022; 🌱 **I am constantly pushing the boundaries of what is possible in web development.**
-
-   &nbsp;&#10022; 💬 **In my spare time, I enjoy video editing and physical fitness.**
+    ✦ 🌱 I’m always exploring new technologies, from frontend and backend development to dipping my toes into DevOps.
    
-   &nbsp;&#10022; 💻 **Let's talk about Web development, Security, And Anime stuff**
+    ✦ 🎯 My goal is to create seamless, scalable, and secure solutions that make an impact.
+   
+    ✦ 💬 When I’m not coding, you can find me editing videos, staying active, or diving into my favorite anime.
+   
+    ✦ 💻 Let’s chat about web development, security, DevOps, or anime—I'm always up for an interesting conversation!
    
   </p>
  </div>
