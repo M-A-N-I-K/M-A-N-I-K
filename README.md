@@ -17,15 +17,15 @@
 
    &nbsp;
     
-    ✦ 🔭 I'm a full-stack web developer with 4+ years of experience building dynamic and user-friendly web applications.
+    ✦ 🔭 **I'm a full-stack web developer with 4+ years of experience building dynamic and user-friendly web applications.**
 
-    ✦ 🌱 I’m always exploring new technologies, from frontend and backend development to dipping my toes into DevOps.
+    ✦ 🌱 **I’m always exploring new technologies, from frontend and backend development to dipping my toes into DevOps.**
    
-    ✦ 🎯 My goal is to create seamless, scalable, and secure solutions that make an impact.
+    ✦ 🎯 **My goal is to create seamless, scalable, and secure solutions that make an impact.**
    
-    ✦ 💬 When I’m not coding, you can find me editing videos, staying active, or diving into my favorite anime.
+    ✦ 💬 **When I’m not coding, you can find me editing videos, staying active, or diving into my favorite anime.**
    
-    ✦ 💻 Let’s chat about web development, security, DevOps, or anime—I'm always up for an interesting conversation!
+    ✦ 💻 **Let’s chat about web development, DevOps, or anime—I'm always up for an interesting conversation!**
    
   </p>
  </div>
@@ -104,7 +104,7 @@
   </div>
  <div markdown="1">
   
-   <img width="150px" height="150px" src="https://camo.githubusercontent.com/ca1b7d0350e9b7e60f2d2d66856984aa6fed01340cdb812cb0fee914f6f84d45/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f416c3958697445497747674c5539794d66532f67697068792e676966" alt="gojo" align="right"/>
+   <img width="150px" height="150px" src="https://media.tenor.com/xPWfznORj98AAAAi/urm.gif" alt="gojo" align="right"/>
   
  </div>
 </div>
