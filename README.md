@@ -32,7 +32,7 @@
 </div>
 
 <br><br><br><br><br><br>
-<h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
+<h2 align="start">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
 <br>
 <p align="center">
  
@@ -60,64 +60,35 @@
 
 </p>
 <h2></h2>
-<br><br><br><br><br>
 
-<div style="width: 100% ; display:flex; justify-content: center; align-items:center;"  markdown="1">
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-A-N-I-K&theme=blue_green) 
-  &nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=M-A-N-I-K&theme=blue_green&hide_border=false)<br/>
-<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-A-N-I-K&theme=blue_green) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M-A-N-I-K&theme=blue_green) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-A-N-I-K&theme=blue_green) 
+## 📊 GitHub Stats
+
+<div align="start">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-A-N-I-K&theme=github_dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=M-A-N-I-K&theme=github_dark&hide_border=true)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=M-A-N-I-K&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M-A-N-I-K&theme=github_dark)
+
+<p align="start"> <img src="https://komarev.com/ghpvc/?username=M-A-N-I-K&label=Profile%20views&color=ce9927&style=flat" alt="M-A-N-I-K" /> </p>
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="start">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manik-dingra)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manik_dingra)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manikdhingra0582@gmail.com)
 
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M-A-N-I-K&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
+<div align="start">
 
 
-<div style="display: flex; align-items: flex-start;">
-  <div  markdown="1">
-    <ul style="list-style-type: none; padding: 0; margin: 0;">
-      <li>
-        <a href="https://linkedin.com/in/manik-dingra">
-          <img src="https://img.shields.io/badge/linkedin:manik_dingra-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-        </a>
-      </li>
-      <li>
-        <a href="https://twitter.com/manik_dingra">
-          <img src="https://img.shields.io/badge/twitter:manik_dingra-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-        </a>
-      </li>
-      <li>
-        <a href="mailto:manikdhingra0582@gmail.com">
-          <img src="https://img.shields.io/badge/gmail:manikdhingra0582-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-      </li>
-    </ul>
-  </div>
- <div markdown="1">
-  
-   <img width="150px" height="150px" src="https://media.tenor.com/xPWfznORj98AAAAi/urm.gif" alt="gojo" align="right"/>
-  
- </div>
-</div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
+### If you find my work interesting, feel free to ⭐ my repositories!
 
 </div>
 
